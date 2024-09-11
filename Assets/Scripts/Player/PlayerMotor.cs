@@ -1,8 +1,6 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEditor.Experimental.GraphView;
+
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMotor : MonoBehaviour
 {
@@ -70,6 +68,10 @@ public class PlayerMotor : MonoBehaviour
             speed = 8; 
         else speed = 5; 
 
+    }
+    public void OpenMainMenu()
+    {
+        SceneManager.LoadScene("MainMenu");
     }
     public void Jump()
     {

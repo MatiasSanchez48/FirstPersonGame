@@ -22,6 +22,7 @@ public class InputManager : MonoBehaviour
         look = GetComponent<PlayerLook>();
 
         onFoot.Jump.performed += ctx => motor.Jump();
+        onFoot.OpenMainMenu.performed += ctx => motor.OpenMainMenu();
 
         onFoot.Crounch.performed += ctx => motor.Crounch();
         onFoot.Sprint.performed += ctx => motor.Sprint();
@@ -42,7 +43,7 @@ public class InputManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+       
     }
     private void OnEnable()
     {

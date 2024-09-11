@@ -80,6 +80,15 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""OpenMainMenu"",
+                    ""type"": ""Button"",
+                    ""id"": ""1e55a0c6-3e20-4ea1-888c-05a08dea025e"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -300,6 +309,28 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""groups"": """",
                     ""action"": ""Interact"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""682af15b-8b65-4c0e-b117-0ba0ee0a3c6a"",
+                    ""path"": ""<Keyboard>/escape"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""OpenMainMenu"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""de4f1935-0139-4e58-b8fc-44f588d22392"",
+                    ""path"": ""<Gamepad>/start"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""OpenMainMenu"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -832,6 +863,7 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
         m_OnFoot_Crounch = m_OnFoot.FindAction("Crounch", throwIfNotFound: true);
         m_OnFoot_Sprint = m_OnFoot.FindAction("Sprint", throwIfNotFound: true);
         m_OnFoot_Interact = m_OnFoot.FindAction("Interact", throwIfNotFound: true);
+        m_OnFoot_OpenMainMenu = m_OnFoot.FindAction("OpenMainMenu", throwIfNotFound: true);
         // UI
         m_UI = asset.FindActionMap("UI", throwIfNotFound: true);
         m_UI_Navigate = m_UI.FindAction("Navigate", throwIfNotFound: true);
@@ -911,6 +943,7 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
     private readonly InputAction m_OnFoot_Crounch;
     private readonly InputAction m_OnFoot_Sprint;
     private readonly InputAction m_OnFoot_Interact;
+    private readonly InputAction m_OnFoot_OpenMainMenu;
     public struct OnFootActions
     {
         private @PlayerInput m_Wrapper;
@@ -921,6 +954,7 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
         public InputAction @Crounch => m_Wrapper.m_OnFoot_Crounch;
         public InputAction @Sprint => m_Wrapper.m_OnFoot_Sprint;
         public InputAction @Interact => m_Wrapper.m_OnFoot_Interact;
+        public InputAction @OpenMainMenu => m_Wrapper.m_OnFoot_OpenMainMenu;
         public InputActionMap Get() { return m_Wrapper.m_OnFoot; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -948,6 +982,9 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
             @Interact.started += instance.OnInteract;
             @Interact.performed += instance.OnInteract;
             @Interact.canceled += instance.OnInteract;
+            @OpenMainMenu.started += instance.OnOpenMainMenu;
+            @OpenMainMenu.performed += instance.OnOpenMainMenu;
+            @OpenMainMenu.canceled += instance.OnOpenMainMenu;
         }
 
         private void UnregisterCallbacks(IOnFootActions instance)
@@ -970,6 +1007,9 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
             @Interact.started -= instance.OnInteract;
             @Interact.performed -= instance.OnInteract;
             @Interact.canceled -= instance.OnInteract;
+            @OpenMainMenu.started -= instance.OnOpenMainMenu;
+            @OpenMainMenu.performed -= instance.OnOpenMainMenu;
+            @OpenMainMenu.canceled -= instance.OnOpenMainMenu;
         }
 
         public void RemoveCallbacks(IOnFootActions instance)
@@ -1113,6 +1153,7 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
         void OnCrounch(InputAction.CallbackContext context);
         void OnSprint(InputAction.CallbackContext context);
         void OnInteract(InputAction.CallbackContext context);
+        void OnOpenMainMenu(InputAction.CallbackContext context);
     }
     public interface IUIActions
     {

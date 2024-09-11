@@ -3,60 +3,64 @@
   "WorkspaceRootPath": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\.vsconfig||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vsconfig||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\MainMenu\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MainMenu\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\States\\SearchState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\States\\SearchState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\enemy\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\AttackState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\AttackState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\enemy\\states\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\states\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\States\\PatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\States\\PatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\enemy\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\Path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\Path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\enemy\\states\\searchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\states\\searchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Player\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\enemy\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\InteractionEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InteractionEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\interactable\\keypad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\keypad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Interactable\\KeyPad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Interactable\\KeyPad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\InputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03319BE7-3DA1-96EF-440B-5DBE44358AD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Player\\PlayerInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,6 +87,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-11T03:06:10.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": ".vsconfig",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\.vsconfig",
               "RelativeDocumentMoniker": ".vsconfig",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\MainMenu\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MainMenu.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "SearchState.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\States\\SearchState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\States\\SearchState.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Bullet.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Bullet.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AttackState.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\AttackState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\AttackState.cs",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PatrolState.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\States\\PatrolState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\States\\PatrolState.cs",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Path.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\Path.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Path.cs",
@@ -167,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Enemy\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
@@ -179,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
@@ -191,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Interactable.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
@@ -203,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "InteractionEvent.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\InteractionEvent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionEvent.cs",
@@ -215,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "KeyPad.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Interactable\\KeyPad.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\KeyPad.cs",
@@ -239,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "PlayerInteract.cs",
               "DocumentMoniker": "D:\\Fuentes\\Proyectos\\Proyectos de Unity\\First_Person_Game\\Assets\\Scripts\\Player\\PlayerInteract.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInteract.cs",
